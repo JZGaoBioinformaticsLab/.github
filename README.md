@@ -15,5 +15,6 @@ We develop mathematical, statistical, and AI methods for bioinformatics, with ap
 
 | Software | Description | Main Developer | Status | Link |
 |---|---|---|---|---|
-| iscTG | Bayesian framework for disease-associated cell identification | Student name | Published / In preparation | link |
-| ProPathNet | Proteomics-based disease risk prediction | Student name | In preparation | link |
+| iscTG | Bayesian framework for disease-associated cell identification | Kunpeng Liu; Linnan Xu; | Published / In preparation | link |
+| ProPathNet | Proteomics-based disease risk prediction | Linnan Xu | In preparation | link |
+|PPI-Affinity| PPI affinity prediction | Junbiao Lu| In preparation| link|
